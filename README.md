@@ -1,5 +1,7 @@
 Practical Application Project: Acceptance of Carryout Coupons
+
 By: Gabriel Diaz de Leon
+
 Carryout coupons analyzed due to their representative proportion and high/consistent acceptance rate
 https://github.com/GabrielDiazdeleon/Berkeley_Portfolio_Project1/blob/c73578d6137d4defe0081998c396151ec524448f/Practical%20Application%20Project%20-%20Diaz%20de%20Leon.ipynb
 
